@@ -1,2 +1,2 @@
 # Python
-Learn Rust
+Learn Python
