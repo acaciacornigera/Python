@@ -1,2 +1,2 @@
 # Python
-Learn and Maser Python
+Learn and Master Python
